@@ -1,7 +1,9 @@
 📌 Project Concept
+
 This project focuses on a comprehensive Exploratory Data Analysis (EDA) of the Titanic dataset. The goal is to move beyond simple statistics and uncover the underlying social and demographic patterns that determined passenger survival, using Python to transform raw data into actionable insights.
 
 🛠️ Tech Stack & Skills
+
 Python & Pandas: Advanced data manipulation, handling missing values, and feature engineering.
 
 Seaborn & Matplotlib: Creation of complex statistical visualizations (Heatmaps, Categorical plots, and Histograms).
@@ -9,6 +11,7 @@ Seaborn & Matplotlib: Creation of complex statistical visualizations (Heatmaps, 
 Data Cleaning (ETL): Imputation of missing age records based on gender groups and filtering irrelevant features (Cabin/Ticket) to reduce noise.
 
 📊 Analysis Layer 1: Demographic & Social Impact
+
 Goal: Understand the "Women and Children First" protocol through data.
 
 Key Findings: Detailed breakdown showing a 74% survival rate for females vs. 19% for males.
@@ -16,6 +19,7 @@ Key Findings: Detailed breakdown showing a 74% survival rate for females vs. 19%
 Visuals: Distribution of age groups showing children (under 12) as a high-priority survival group (57% success rate).
 
 📊 Analysis Layer 2: Socio-Economic Factors
+
 Goal: Correlate ticket fare and passenger class with survival probability.
 
 Key Findings: Identification of a "Wealth Gap" in survival—63% of 1st Class passengers survived, while only 24% of 3rd Class made it, highlighting the impact of physical location and social status on the ship.
